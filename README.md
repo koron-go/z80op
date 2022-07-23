@@ -5,3 +5,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/koron-go/z80op)](https://goreportcard.com/report/github.com/koron-go/z80op)
 
 Z80's opcode utility.
+
+Curved out unused packages from https://github.com/koron-go/z80
